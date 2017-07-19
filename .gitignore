@@ -163,3 +163,8 @@ modules.xml
 *.ipr
 
 # End of https://www.gitignore.io/api/pycharm+iml
+.idea/inspectionProfiles/
+.idea/vcs.xml
+Test1/.idea/inspectionProfiles/
+Test1/.idea/misc.xml
+Test1/.idea/workspace.xml
